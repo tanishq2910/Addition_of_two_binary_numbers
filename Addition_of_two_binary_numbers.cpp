@@ -9,7 +9,6 @@ int reverse(int r){
         int last_number = r%10;
         answer = answer*10 +last_number;
         r/=10;
-
     }
     return answer;
 }
