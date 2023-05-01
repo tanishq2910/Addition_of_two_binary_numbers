@@ -12,7 +12,6 @@ int reverse(int r){
     }
     return answer;
 }
-
 int addbinary(int x,int y){
     int ans=0;
     int carry=0;
